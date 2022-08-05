@@ -29,7 +29,7 @@
     "cson": "^6.9.0",
     "cson-parser": "^4.0.3",
     "cson-safe": "^1.0.5",
-    "csv-parse": "^4.8.5",
+    "csv-parse": "^5.3.0",
     "csv-parser": "^2.3.2",
     "csv-stringify": "^5.3.6",
     "js-yaml": "^3.13.1",
